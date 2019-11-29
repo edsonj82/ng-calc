@@ -1,0 +1,27 @@
+{
+  "name": "ng-calc",
+  "version": "1.0.0",
+  "description": "Projeto do ng-calc de introduçã ao Protractor pela Ninja House",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edsonj82/ng-calc.git).git"
+  },
+  "keywords": [
+    "curso",
+    "protractor",
+    "ninja",
+    "house",
+    "automação",
+    "qa"
+  ],
+  "author": "Edson José dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsonj82/ng-calc.git)/issues"
+  },
+  "homepage": "https://github.com/edsonj82/ng-calc.git)#readme"
+}
