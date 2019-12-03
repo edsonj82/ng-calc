@@ -1,10 +1,11 @@
 {
   "name": "ng-calc",
   "version": "1.0.0",
-  "description": "Projeto do ng-calc de introduçã ao Protractor pela Ninja House",
+  "description": "Projeto do ng-calc de introdução ao Protractor pela Ninja House",
   "main": "index.js",
   "scripts": {
-    "test": "protractor"
+    "test": "protractor conf.js",
+    "webdriver-update": "webdriver-manager update"
   },
   "repository": {
     "type": "git",
