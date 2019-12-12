@@ -1,14 +1,12 @@
-//Arquivos de configuração do protractor
+//Arquivos de configuração do protractor - 1:08
 
 exports.config ={
 
-    directConnect: true,
-
+    // chromeOnly: true,
+    // directConnect: true,
     framework:'jasmine2',
-
     specs:['test.js'],
-
     capabilities:{
-        browserName: 'chrome'
+        browserName: 'firefox',
     }
 }
